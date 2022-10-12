@@ -13,4 +13,4 @@ npm run build  # production
 
 ## Deploy
 
-It is manually deployed to https://businesswebsitesaustralia.com.au/place-id/
+It is manually deployed to https://businesswebsitesaustralia.com.au/place-finder/
