@@ -1,7 +1,7 @@
-# Google Maps JavaScript Sample
+# BWA Web App for Place ID
 
-This sample is generated from @googlemaps/js-samples located at
-https://github.com/googlemaps/js-samples.
+This app was generated from @googlemaps/js-samples located at
+https://github.com/googlemaps/js-samples
 
 ## Setup
 
@@ -11,7 +11,6 @@ npm start  # development
 npm run build  # production
 ```
 
-## Feedback
+## Deploy
 
-For feedback related to this sample, please open a new issue on
-[GitHub](https://github.com/googlemaps/js-samples/issues).
+It is manually deployed to https://businesswebsitesaustralia.com.au/place-id/
